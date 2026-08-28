@@ -8,7 +8,7 @@ export const Hero = () => {
         <img
           src={Banner}
           alt="Homem sentado de tenis da SyntaxWear"
-          className="w-full h-full pbject-coer rounded-[20px]"
+          className="w-full h-full object-cover rounded-[20px] "
         />
         <div className="absolute w-full bottom-0 flex justify-end items-center text-center px-6 md:px-24 pb-32">
             <div className="flex flex-col text-white items-center w-97">
